@@ -144,16 +144,16 @@ nav h1 {
   padding: 6px 14px;
   border-radius: 8px;
   transition: 
-  background 0.25s ease, 
+  background: 0.25s ease, 
   color 0.25s ease;
 }
 .nav-li a:hover {
-  bacground: #283b1f;
+  bacground: #778073;
   color:#759788
 }
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color: rgb(154, 140, 140);
 }
 #portfolio {
   list-style: none;
@@ -173,7 +173,7 @@ nav h1 {
 justify-content: space-between;
 align-items: center;
 text-decoration: none;
-color: #444;
+color: #948c8c;
 padding: 16px 20px;
 font-size: 1.1rem;
 font-weight: 500;
@@ -185,7 +185,7 @@ color 0.25s ease, ransform 0.25s
 ease;
 }
 #portfolio a:hover {
-  bacground: #000;
+  bacground: #796e6e;
   color: #fff;
   transform: translateX(4px);
 }
