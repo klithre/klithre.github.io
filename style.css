@@ -199,3 +199,8 @@ ease;
 #portfolio a:hover: :after {
   opacity: 1;
 }
+
+.content {
+  align-content: center;
+  justify-content: center;
+}
